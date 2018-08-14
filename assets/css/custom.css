@@ -558,7 +558,7 @@ blockquote {
 
 .authorInfo,
 .firstfooterNav ul li a {
-    color: #85939d
+    color: #4e4e4e
 }
 
 blockquote:before {
@@ -731,7 +731,7 @@ footer {
 .heading,
 .homeNav,
 .topbar {
-    border-bottom: 1px solid #eee
+    border-bottom: 1px solid rgba(54,54,54,.2);
 }
 
 .footerMenu nav .navLinks-wrap .navLinks .onlyLinks {
@@ -940,7 +940,7 @@ footer {
     display: block;
     height: 100%;
     border-bottom: 0 solid #cc3338;
-    color: #85939d;
+    color: #4e4e4e;
     font-size: 1rem;
     font-weight: 400
 }
