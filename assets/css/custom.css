@@ -651,7 +651,7 @@ footer {
 .firstfooter {
     display: table;
     width: 100%;
-    background: #d8d8d8;
+    background: #6e6e6e;
     height: 100px;
     line-height: 100px;
     padding: 0 42px
@@ -664,7 +664,7 @@ footer {
 
 .firstfooterNav ul li {
     display: inline;
-    color: #85939d
+    color: #fff
 }
 
 .firstfooterNav ul li a:hover {
@@ -739,7 +739,7 @@ footer {
 }
 
 .lastfooter {
-    background: #BBB;
+    background: #424242;
     height: auto;
     width: 100%;
     padding: 0 42px
