@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="537fd319-efe9-4bc1-811e-3f1ca25bd748" name="Default" comment="" />
+    <list default="true" id="537fd319-efe9-4bc1-811e-3f1ca25bd748" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/page.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/post.hbs" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="733" column="33" lean-forward="true" selection-start-line="733" selection-start-column="33" selection-end-line="733" selection-end-column="33" />
+            <state relative-caret-position="320">
+              <caret line="743" column="16" lean-forward="true" selection-start-line="743" selection-start-column="16" selection-end-line="743" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/post.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -68,11 +80,14 @@
       <find>d7d7</find>
       <find>homeNav</find>
       <find>#d8d8d8</find>
-      <find>bbb</find>
       <find>social me</find>
       <find>#85939D</find>
       <find>date</find>
       <find>topbarInfo</find>
+      <find>#85939d</find>
+      <find>sidenav</find>
+      <find>bbb</find>
+      <find>reading time</find>
     </findStrings>
     <replaceStrings>
       <replace>#cc3338</replace>
@@ -89,9 +104,10 @@
         <option value="$PROJECT_DIR$/partials/pagination.hbs" />
         <option value="$PROJECT_DIR$/partials/navigation.hbs" />
         <option value="$PROJECT_DIR$/index.hbs" />
-        <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/default.hbs" />
         <option value="$PROJECT_DIR$/partials/loop.hbs" />
+        <option value="$PROJECT_DIR$/assets/css/custom.css" />
+        <option value="$PROJECT_DIR$/post.hbs" />
       </list>
     </option>
   </component>
@@ -181,12 +197,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534248354641</updated>
-      <workItem from="1534248355876" duration="1480000" />
+      <workItem from="1534248355876" duration="1975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1480000" />
+    <option name="totallyTimeSpent" value="1975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
@@ -237,9 +253,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/page.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-282" />
@@ -286,10 +299,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3392" selection-start-column="3392" selection-end-column="3392" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="733" column="33" lean-forward="true" selection-start-line="733" selection-start-column="33" selection-end-line="733" selection-end-column="33" />
+        <state relative-caret-position="320">
+          <caret line="743" column="16" lean-forward="true" selection-start-line="743" selection-start-column="16" selection-end-line="743" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
