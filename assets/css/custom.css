@@ -263,7 +263,7 @@ p {
     font-size: .925rem;
     font-weight: 400;
     margin-bottom: 10.52px;
-    color: #85939d
+    color: #4e4e4e
 }
 
 a {
@@ -545,7 +545,7 @@ hr {
     padding: 10px;
     font-size: inherit;
     font-weight: 400;
-    color: #85939d
+    color: #4e4e4e
 }
 
 blockquote {
@@ -707,19 +707,19 @@ footer {
 
 .footerMenu nav .navLinks-wrap .navLinks .navLink {
     display: inline;
-    color: #85939D;
+    color: #fff;
     margin-right: 5px
 }
 
 .footerMenu nav .navLinks-wrap .navLinks .navLink a {
     display: inline;
-    color: #85939D;
+    color: #fff;
     border-bottom: 0;
     font-size: .9rem
 }
 
 .footerMenu nav .navLinks-wrap .navLinks .navLink a:hover {
-    color: #85939D;
+    color: #cc3338;
     text-decoration: underline!important
 }
 
@@ -875,7 +875,7 @@ footer {
 
 .headingTitle span {
     font-size: 1.7rem;
-    color: #85939d;
+    color: #4e4e4e;
     font-weight: 300
 }
 
