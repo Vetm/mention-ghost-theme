@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="537fd319-efe9-4bc1-811e-3f1ca25bd748" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/page.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/post.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,8 +55,8 @@
       <file leaf-file-name="post.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/post.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="486">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -88,11 +87,13 @@
       <find>sidenav</find>
       <find>bbb</find>
       <find>reading time</find>
+      <find>#2c77a0</find>
     </findStrings>
     <replaceStrings>
       <replace>#cc3338</replace>
       <replace>Teilen auf</replace>
       <replace>#4e4e4e</replace>
+      <replace>#b02328</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534248354641</updated>
-      <workItem from="1534248355876" duration="1975000" />
+      <workItem from="1534248355876" duration="2200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1975000" />
+    <option name="totallyTimeSpent" value="2200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
@@ -315,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/post.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="486">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
