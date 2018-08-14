@@ -273,7 +273,7 @@ a {
     font-weight: inherit;
     text-transform: none;
     cursor: pointer;
-    color: #1798de
+    color: #cc3338
 }
 
 .authorDesc,
@@ -301,7 +301,7 @@ a {
     height: 50px;
     padding: 0 21px;
     line-height: 50px;
-    background: #1798de;
+    background: #cc3338;
     color: #fff;
     font-weight: 500;
     font-size: .825rem
@@ -316,14 +316,14 @@ a {
 
 .topbarInfo a {
     background: #fff;
-    color: #1798de;
+    color: #cc3338;
     border: 1px solid #eee
 }
 
 .topbarInfo a:hover {
-    background: #1798de;
+    background: #cc3338;
     color: #fff;
-    border-color: #1798de
+    border-color: #cc3338
 }
 
 .readMore {
@@ -333,7 +333,7 @@ a {
     padding: 15px 21px;
     line-height: initial;
     background: 0 0;
-    color: #1798DE;
+    color: #cc3338;
     border: 1px solid #EEE;
     font-weight: 500;
     font-size: .925rem;
@@ -348,7 +348,7 @@ a {
 }
 
 .readMore:hover {
-    background: #1798de;
+    background: #cc3338;
     color: #fff;
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out
@@ -419,7 +419,7 @@ hr {
 }
 
 .postInfo span a:hover{
-  color: #1798de;
+  color: #cc3338;
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
@@ -461,7 +461,7 @@ hr {
 }
 
 .postContent a:hover {
-    border-bottom: 1px solid #1798de;
+    border-bottom: 1px solid #cc3338;
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out
 }
@@ -800,7 +800,7 @@ footer {
 .progressbar {
     width: 0;
     height: 4px;
-    background: #1798de;
+    background: #cc3338;
     max-width: 1440px
 }
 
@@ -933,25 +933,25 @@ footer {
 }
 
 .navLinks-wrap .navLink a:active {
-    color: #1798de
+    color: #cc3338
 }
 
 .navLinks-wrap .navLink a {
     display: block;
     height: 100%;
-    border-bottom: 0 solid #1798de;
+    border-bottom: 0 solid #cc3338;
     color: #85939d;
     font-size: 1rem;
     font-weight: 400
 }
 
 .nav-current a {
-    border-bottom: 5px solid #1798de!important;
+    border-bottom: 5px solid #cc3338!important;
     font-weight: 500!important
 }
 
 .navLinks-wrap .navLink a:hover {
-    border-bottom: 5px solid #1798de;
+    border-bottom: 5px solid #cc3338;
     -webkit-transition: all 125ms ease-in-out;
     transition: all 125ms ease-in-out
 }
@@ -1070,7 +1070,7 @@ footer {
 }
 
 .loopPost-title a:hover {
-    color: #1798de;
+    color: #cc3338;
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out
 }
