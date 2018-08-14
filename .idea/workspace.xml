@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="537fd319-efe9-4bc1-811e-3f1ca25bd748" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
-    </list>
+    <list default="true" id="537fd319-efe9-4bc1-811e-3f1ca25bd748" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.hbs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/default.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -52,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="234">
+              <caret line="13" column="109" lean-forward="true" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -198,12 +196,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534248354641</updated>
-      <workItem from="1534248355876" duration="2200000" />
+      <workItem from="1534248355876" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2200000" />
+    <option name="totallyTimeSpent" value="2456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
@@ -286,13 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/default.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="80" column="49" lean-forward="true" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/loop.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -316,8 +307,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/post.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="234">
+          <caret line="13" column="109" lean-forward="true" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="80" column="49" lean-forward="true" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
         </state>
       </provider>
     </entry>
