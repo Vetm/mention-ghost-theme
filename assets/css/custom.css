@@ -773,12 +773,12 @@ footer {
     z-index: 1000
 }
 
-.lastfooterSocial:nth-child(3) {
-    margin: 0 10px
-}
-
 .lastfooterSocial:nth-child(2) {
     margin-left: 10px
+}
+
+.lastfooterSocial {
+    margin: 0 2px
 }
 
 .lastfooterSocial i {
